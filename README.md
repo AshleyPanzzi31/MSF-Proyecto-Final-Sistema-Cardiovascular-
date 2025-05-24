@@ -1,8 +1,9 @@
 # MSF-Proyecto Final
 # Modelado de Sistemas Fisiológicos. Proyecto Final: Sistema Cardiovascular [Arritmia] [Panzzi22210424]
 
-## Autor
-Ashley Dayanna Panzzi Hernandez, 
+## Autores
+Ashley Dayanna Panzzi Hernandez
+
 Jael Badillo Cruz
 
 Ingeniería Biomédica, Departamento de Ingeniería Eléctrica y Electrónica, Tecnológico Nacional de México/IT Tijuana. Blvd. Alberto Limón Padilla s/n, Tijuana, C.P. 22454, B.C., México. Email: L22210424@tectijuana.edu.mx
